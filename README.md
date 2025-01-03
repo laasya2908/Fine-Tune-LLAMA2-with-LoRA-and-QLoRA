@@ -11,15 +11,3 @@ Fine-tuning large language models can be resource-intensive. LoRA and QLoRA offe
 - **Detailed Configuration**: Customize training parameters to suit your needs.
 - **End-to-End Pipeline**: Complete process from dataset loading to model training and inference.
 
-## Requirements
-
-- Python 3.8+
-- CUDA-enabled GPU for training
-
-## Contributions
-
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
